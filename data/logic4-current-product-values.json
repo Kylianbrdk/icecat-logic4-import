@@ -1,0 +1,32 @@
+[
+  {
+    "ProductId": 1,
+    "TemplatePropertyId": 101,
+    "Values": ["Headset"],
+    "TemplatePropertyName": "Product type"
+  },
+  {
+    "ProductId": 1,
+    "TemplatePropertyId": 102,
+    "Values": [],
+    "TemplatePropertyName": "Product colour"
+  },
+  {
+    "ProductId": 1,
+    "TemplatePropertyId": 103,
+    "Values": ["Wireless"],
+    "TemplatePropertyName": "Connectivity technology"
+  },
+  {
+    "ProductId": 1,
+    "TemplatePropertyId": 105,
+    "Values": ["Office/Call center"],
+    "TemplatePropertyName": "Recommended usage"
+  },
+  {
+    "ProductId": 1,
+    "TemplatePropertyId": 106,
+    "Values": ["2 years"],
+    "TemplatePropertyName": "Warranty period"
+  }
+]

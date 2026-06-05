@@ -1,0 +1,62 @@
+[
+  {
+    "TemplatePropertyId": 101,
+    "Name": "Product type",
+    "NameTranslations": [],
+    "FilterInfomations": [],
+    "Unit": null,
+    "UnitTranslations": [],
+    "Remark": null,
+    "Values": ["Headset", "Speaker", "Microphone"]
+  },
+  {
+    "TemplatePropertyId": 102,
+    "Name": "Product colour",
+    "NameTranslations": [],
+    "FilterInfomations": [],
+    "Unit": null,
+    "UnitTranslations": [],
+    "Remark": null,
+    "Values": ["Black", "White", "Grey"]
+  },
+  {
+    "TemplatePropertyId": 103,
+    "Name": "Connectivity technology",
+    "NameTranslations": [],
+    "FilterInfomations": [],
+    "Unit": null,
+    "UnitTranslations": [],
+    "Remark": null,
+    "Values": ["Wired", "Wireless"]
+  },
+  {
+    "TemplatePropertyId": 104,
+    "Name": "USB connector",
+    "NameTranslations": [],
+    "FilterInfomations": [],
+    "Unit": null,
+    "UnitTranslations": [],
+    "Remark": null,
+    "Values": ["USB Type-A", "USB Type-C", "USB Type-C / USB Type-A"]
+  },
+  {
+    "TemplatePropertyId": 105,
+    "Name": "Recommended usage",
+    "NameTranslations": [],
+    "FilterInfomations": [],
+    "Unit": null,
+    "UnitTranslations": [],
+    "Remark": null,
+    "Values": ["Office/Call center", "Gaming", "Calls/Music"]
+  },
+  {
+    "TemplatePropertyId": 106,
+    "Name": "Warranty period",
+    "NameTranslations": [],
+    "FilterInfomations": [],
+    "Unit": null,
+    "UnitTranslations": [],
+    "Remark": null,
+    "Values": ["1 year", "2 years", "3 years"]
+  }
+]

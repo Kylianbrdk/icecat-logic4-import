@@ -1,0 +1,812 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE ICECAT-interface SYSTEM "https://data.icecat.biz/dtd/ICECAT-interface_response.dtd">
+<!--source: Icecat.biz 2026-->
+<!--Language ID: 1-->
+<!--Version: v2-->
+<ICECAT-interface xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://data.icecat.biz/xsd/ICECAT-interface_response.xsd">
+ <Product Code="1" HighPic="https://images.icecat.biz/img/gallery/c26dcd172593780b274f6d14753be95e9e8366a6.jpg" HighPicHeight="832" HighPicSize="67999" HighPicWidth="675" ID="124880731" LowPic="https://images.icecat.biz/img/gallery_lows/9d54daafacc18a4d72963416832bcea24c456a95.jpg" LowPicHeight="200" LowPicSize="8190" LowPicWidth="162" Name="Evolve2 30 SE USB C/A MS Mono" IntName="Evolve2 30 SE USB C/A MS Mono" LocalName="" Pic500x500="https://images.icecat.biz/img/gallery_mediums/ab44a97cff1a40abf45f7821814e330f3c7e79b4.jpg" Pic500x500Height="500" Pic500x500Size="31308" Pic500x500Width="406" Prod_id="23189-899-779" Quality="ICECAT" ReleaseDate="" ThumbPic="https://images.icecat.biz/img/gallery_thumbs/734c2f130a1705005a03e7f19e001d50e4c6a874.jpg" ThumbPicSize="2353" Title="Jabra Evolve2 30 SE USB C/A MS Mono Headset Wired Handheld Office/Call center USB Type-C / USB Type-A Black" GeneratedIntTitle="Jabra Evolve2 30 SE USB C/A MS Mono" GeneratedLocalTitle="Jabra Evolve2 30 SE USB C/A MS Mono Headset Wired Handheld Office/Call center USB Type-C / USB Type-A Black" BrandLocalTitle="">
+  <CategoryFeatureGroup ID="10775" No="0">
+   <FeatureGroup ID="0">
+    <Name ID="5073" langid="1" Value="Technical details"/>
+   </FeatureGroup>
+  </CategoryFeatureGroup>
+  <CategoryFeatureGroup ID="5114" No="16">
+   <FeatureGroup ID="8">
+    <Name ID="4885" langid="1" Value="System requirements"/>
+   </FeatureGroup>
+  </CategoryFeatureGroup>
+  <CategoryFeatureGroup ID="6264" No="40">
+   <FeatureGroup ID="12">
+    <Name ID="4995" langid="1" Value="Ports &amp; interfaces"/>
+   </FeatureGroup>
+  </CategoryFeatureGroup>
+  <CategoryFeatureGroup ID="5112" No="8">
+   <FeatureGroup ID="14">
+    <Name ID="5023" langid="1" Value="Weight &amp; dimensions"/>
+   </FeatureGroup>
+  </CategoryFeatureGroup>
+  <CategoryFeatureGroup ID="12862" No="0">
+   <FeatureGroup ID="27">
+    <Name ID="5049" langid="1" Value="Power"/>
+   </FeatureGroup>
+  </CategoryFeatureGroup>
+  <CategoryFeatureGroup ID="33260" No="11">
+   <FeatureGroup ID="28">
+    <Name ID="5067" langid="1" Value="Operational conditions"/>
+   </FeatureGroup>
+  </CategoryFeatureGroup>
+  <CategoryFeatureGroup ID="5225" No="7">
+   <FeatureGroup ID="67">
+    <Name ID="27423" langid="1" Value="Packaging data"/>
+   </FeatureGroup>
+  </CategoryFeatureGroup>
+  <CategoryFeatureGroup ID="5110" No="28">
+   <FeatureGroup ID="70">
+    <Name ID="27519" langid="1" Value="Microphone"/>
+   </FeatureGroup>
+  </CategoryFeatureGroup>
+  <CategoryFeatureGroup ID="5109" No="30">
+   <FeatureGroup ID="71">
+    <Name ID="27525" langid="1" Value="Headphones"/>
+   </FeatureGroup>
+  </CategoryFeatureGroup>
+  <CategoryFeatureGroup ID="40024" No="0">
+   <FeatureGroup ID="76">
+    <Name ID="28540" langid="1" Value="Certificates"/>
+   </FeatureGroup>
+  </CategoryFeatureGroup>
+  <CategoryFeatureGroup ID="26483" No="20">
+   <FeatureGroup ID="79">
+    <Name ID="28858" langid="1" Value="Indication"/>
+   </FeatureGroup>
+  </CategoryFeatureGroup>
+  <CategoryFeatureGroup ID="33261" No="-1">
+   <FeatureGroup ID="115">
+    <Name ID="78827" langid="1" Value="Outer carton"/>
+   </FeatureGroup>
+  </CategoryFeatureGroup>
+  <CategoryFeatureGroup ID="12861" No="6">
+   <FeatureGroup ID="116">
+    <Name ID="78852" langid="1" Value="Packaging content"/>
+   </FeatureGroup>
+  </CategoryFeatureGroup>
+  <CategoryFeatureGroup ID="13255" No="15">
+   <FeatureGroup ID="117">
+    <Name ID="78869" langid="1" Value="Subwoofer"/>
+   </FeatureGroup>
+  </CategoryFeatureGroup>
+  <CategoryFeatureGroup ID="25463" No="14">
+   <FeatureGroup ID="134">
+    <Name ID="350867" langid="1" Value="Amplifier"/>
+   </FeatureGroup>
+  </CategoryFeatureGroup>
+  <CategoryFeatureGroup ID="6263" No="24">
+   <FeatureGroup ID="143">
+    <Name ID="618812" langid="1" Value="Battery"/>
+   </FeatureGroup>
+  </CategoryFeatureGroup>
+  <CategoryFeatureGroup ID="78145" No="0">
+   <FeatureGroup ID="144">
+    <Name ID="619994" langid="1" Value="Brand-specific features"/>
+   </FeatureGroup>
+  </CategoryFeatureGroup>
+  <CategoryFeatureGroup ID="6259" No="-100">
+   <FeatureGroup ID="146">
+    <Name ID="624346" langid="1" Value="Other features"/>
+   </FeatureGroup>
+  </CategoryFeatureGroup>
+  <CategoryFeatureGroup ID="10773" No="50">
+   <FeatureGroup ID="148">
+    <Name ID="630457" langid="1" Value="Design"/>
+   </FeatureGroup>
+  </CategoryFeatureGroup>
+  <CategoryFeatureGroup ID="10774" No="60">
+   <FeatureGroup ID="184">
+    <Name ID="1218765" langid="1" Value="Performance"/>
+   </FeatureGroup>
+  </CategoryFeatureGroup>
+  <CategoryFeatureGroup ID="12863" No="0">
+   <FeatureGroup ID="185">
+    <Name ID="1219853" langid="1" Value="Features"/>
+   </FeatureGroup>
+  </CategoryFeatureGroup>
+  <CategoryFeatureGroup ID="17998" No="3">
+   <FeatureGroup ID="198">
+    <Name ID="1788927" langid="1" Value="Logistics data"/>
+   </FeatureGroup>
+  </CategoryFeatureGroup>
+  <CategoryFeatureGroup ID="33259" No="0">
+   <FeatureGroup ID="232">
+    <Name ID="3464238" langid="1" Value="Supplier features"/>
+   </FeatureGroup>
+  </CategoryFeatureGroup>
+  <CategoryFeatureGroup ID="26484" No="12">
+   <FeatureGroup ID="237">
+    <Name ID="3528484" langid="1" Value="Music player"/>
+   </FeatureGroup>
+  </CategoryFeatureGroup>
+  <CategoryFeatureGroup ID="27971" No="27">
+   <FeatureGroup ID="255">
+    <Name ID="4252500" langid="1" Value="Base station"/>
+   </FeatureGroup>
+  </CategoryFeatureGroup>
+  <CategoryFeatureGroup ID="27976" No="26">
+   <FeatureGroup ID="256">
+    <Name ID="4255461" langid="1" Value="Control unit"/>
+   </FeatureGroup>
+  </CategoryFeatureGroup>
+  <CategoryFeatureGroup ID="72109" No="10">
+   <FeatureGroup ID="279">
+    <Name ID="7392238" langid="1" Value="Sustainability"/>
+   </FeatureGroup>
+  </CategoryFeatureGroup>
+  <Category ID="1637">
+   <Name ID="3728246" langid="1" Value="Headphones &amp; Headsets"/>
+  </Category>
+  <EANCode EAN="5706991034226" Format="GTIN-13" IsApproved="1"/>
+  <FeatureLogo ID="1242" Feature_ID="1230" Value="N" LogoPic="https://images.icecat.biz/img/feature_logo/1242-3899.png" Width="0" Height="0" Size="0">
+   <Descriptions>
+    <Description ID="5808" langid="1">DIRECTIVE (EU) 2022/2380 OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL of 23 November 2022 (Part III)</Description>
+   </Descriptions>
+   <FeatureLogoFeatures>
+    <FeatureLogoFeature ID="1230">
+     <FeatureLogoValues>
+      <FeatureLogoValue ID="5865">N</FeatureLogoValue>
+     </FeatureLogoValues>
+    </FeatureLogoFeature>
+   </FeatureLogoFeatures>
+  </FeatureLogo>
+  <ReleaseDate/>
+  <EndOfLifeDate/>
+  <ReasonsToBuy/>
+  <BulletPoints>
+   <BulletPoint Value="Enhanced lightweight comfort" langid="1" No="1"/>
+   <BulletPoint Value="2-microphone call technology" langid="1" No="2"/>
+   <BulletPoint Value="Great audio with 28mm speaker" langid="1" No="3"/>
+   <BulletPoint Value="Busylight visible from all angles" langid="1" No="4"/>
+  </BulletPoints>
+  <GeneratedBulletPoints>
+   <GeneratedBulletPoint Value="Black Office/Call center Handheld Headset" langid="1" No="1"/>
+   <GeneratedBulletPoint Value="Wired" langid="1" No="2"/>
+   <GeneratedBulletPoint Value="Supraaural 20 - 20000 Hz 115 Ω" langid="1" No="3"/>
+   <GeneratedBulletPoint Value="Microphone type: Boom -38 dB" langid="1" No="4"/>
+  </GeneratedBulletPoints>
+  <ProductBundled/>
+  <ProductDescription ID="101256611" LongDesc="&lt;b&gt;Engineered to keep you productive. Lightweight, portable, reliable, comfortable.&lt;/b&gt;&lt;br&gt;It’s time to get ahead with the new standard of professionalism. From open office to open-plan living, Evolve2 30 opens doors to enhanced comfort, seamless collaboration, and instant concentration anywhere, whoever you are, and however you work.&lt;br&gt;&lt;br&gt;&lt;b&gt;MICROPHONE PERFORMANCE&lt;br&gt;Clear, collaborative calls.&lt;/b&gt;&lt;br&gt;When you’re working flexibly, you need to know you can be heard clearly wherever you are. Our advanced 2-microphone audio system captures your voice while simultaneously analyzing and reducing the noise around you, meeting Microsoft Open Office requirements. The perfect way to get your point across and ensure even the smallest nuance isn’t lost in translation.&lt;br&gt;&lt;br&gt;&lt;b&gt;AUDIO QUALITY&lt;br&gt;Easy listening.&lt;/b&gt;&lt;br&gt;When time is of the essence, great quality audio is essential. With our professional-grade 28mm speakers and an advanced digital chipset, the Evolve2 30 delivers exceptional audio quality. So, whether you’re taking an important call or listening to music while you work, you can enjoy great sound that’s engineered for modern working.&lt;br&gt;&lt;br&gt;&lt;b&gt;UNIFIED COMMUNICATIONS (UC)&lt;br&gt;UC-certified means UC-satisfied.&lt;/b&gt;&lt;br&gt;‘Satisfaction guaranteed’ isn’t something you hear very often these days, but we’re bringing it back; Evolve2 30 works with all leading Unified Communications (UC) platforms, for truly seamless collaboration. If your UC platform of choice is Microsoft Teams, the Teams-certified variant is perfectly adapted and optimized to give you the best experience with the platform.&lt;br&gt;&lt;br&gt;UC, it’s so easy.&lt;br&gt;&lt;br&gt;&lt;b&gt;COMFORT&lt;br&gt;Heavy on comfort. Light on the ears.&lt;/b&gt;&lt;br&gt;To get ahead, we measured heads. Hundreds of them. Then we used that data to design the perfect shape using biometric measurements. The result is a headset that’s been ergonomically designed to exert just the right amount of evenly distributed pressure, and built with premium materials, with soft memory foam ear cushions that mold to your ears’ natural contours.&lt;br&gt;&lt;br&gt;&lt;b&gt;DURABILITY&lt;br&gt;Flexibility you can depend on.&lt;/b&gt;&lt;br&gt;From the office, to your home, and even in your local coffee shop – when you work flexibly, your headset gets around almost as much as you do. We’ve re-engineered the design of the Evolve2 30 with a stainless-steel headband and slider for maximum durability. We’ve also significantly enhanced the design of the earcups, so internal and external components are more resistant to impact.&lt;br&gt;&lt;br&gt;&lt;b&gt;NOISE ISOLATION&lt;br&gt;Shh… we’re working.&lt;/b&gt;&lt;br&gt;Looking for a way to get some instant peace and quiet? Evolve2 30 is specifically designed to deliver portable concentration, with noise-isolating memory foam ear cushions and a pioneering angled earcup design. With this lightweight headset in your workbag, you’re only ever a second away from being able to hear yourself think.&lt;br&gt;&lt;br&gt;&lt;b&gt;BUSYLIGHT&lt;br&gt;Do not disturb.&lt;/b&gt;&lt;br&gt;The Evolve2 30 automatically knows when you need peace and quiet. An integrated busylight turns on automatically when you’re on a call, and you can also turn it on manually to signal ‘do not disturb’ mode.&lt;br&gt;&lt;br&gt;Fewer interruptions; wherever your office is.&lt;br&gt;&lt;br&gt;&lt;b&gt;PLUG-AND-PLAY&lt;br&gt;Unbox. Plug in. Go.&lt;/b&gt;&lt;br&gt;Instant collaboration is where it’s at these days. Evolve2 30 is plug-and-play and comes with USB-A and USB-C connectivity, so you can unbox it and get going straight away.&lt;br&gt;&lt;br&gt;It really is that simple. No, really.&lt;br&gt;&lt;br&gt;&lt;b&gt;TECHNOLOGY&lt;br&gt;Thinking outside the box.&lt;/b&gt;&lt;br&gt;As far as things in boxes go, this is kind of a big deal. Before you’ve even unboxed it, you’re holding a pioneering piece of tech that’s leagues ahead of any other headset. But because we have one eye on the future, firmware upgrades and value packs are already on the way to boost it even further." ManualPDFSize="0" ManualPDFURL="" MiddleDesc="" PDFSize="140067" PDFURL="https://objects.icecat.biz/objects/mmo_124880731_1751460210_985_541355.pdf" ShortDesc="Evolve2 30 SE USB C/A MS Mono" URL="https://www.jabra.com/" WarrantyInfo="" langid="1"/>
+  <ProductFeature Localized="0" ID="802330781" Local_ID="0" Value="Headset" CategoryFeature_ID="320952" CategoryFeatureGroup_ID="10774" No="10100300" Optional="0" Presentation_Value="Headset" Translated="1" Mandatory="1" Searchable="1">
+   <LocalValue Value="Headset">
+    <Measure ID="29">
+     <Signs/>
+    </Measure>
+   </LocalValue>
+   <Feature ID="14052">
+    <Measure ID="29" Sign="">
+     <Signs/>
+    </Measure>
+    <Name ID="1127664" langid="1" Value="Product type"/>
+   </Feature>
+  </ProductFeature>
+  <ProductFeature Localized="0" ID="802330776" Local_ID="0" Value="Handheld" CategoryFeature_ID="48583" CategoryFeatureGroup_ID="10774" No="10100294" Optional="0" Presentation_Value="Handheld" Translated="1" Mandatory="1" Searchable="1">
+   <LocalValue Value="Handheld">
+    <Measure ID="29">
+     <Signs/>
+    </Measure>
+   </LocalValue>
+   <Feature ID="8136">
+    <Measure ID="29" Sign="">
+     <Signs/>
+    </Measure>
+    <Name ID="628259" langid="1" Value="Wearing style"/>
+   </Feature>
+  </ProductFeature>
+  <ProductFeature Localized="0" ID="802330779" Local_ID="0" Value="Office/Call center" CategoryFeature_ID="320937" CategoryFeatureGroup_ID="10774" No="10100291" Optional="0" Presentation_Value="Office/Call center" Translated="1" Mandatory="1" Searchable="1">
+   <LocalValue Value="Office/Call center">
+    <Measure ID="29">
+     <Signs/>
+    </Measure>
+   </LocalValue>
+   <Feature ID="8480">
+    <Measure ID="29" Sign="">
+     <Signs/>
+    </Measure>
+    <Name ID="710488" langid="1" Value="Recommended usage"/>
+   </Feature>
+  </ProductFeature>
+  <ProductFeature Localized="0" ID="802330775" Local_ID="0" Value="Binaural" CategoryFeature_ID="48578" CategoryFeatureGroup_ID="10774" No="10100288" Optional="0" Presentation_Value="Binaural" Translated="1" Mandatory="1" Searchable="1">
+   <LocalValue Value="Binaural">
+    <Measure ID="29">
+     <Signs/>
+    </Measure>
+   </LocalValue>
+   <Feature ID="8135">
+    <Measure ID="29" Sign="">
+     <Signs/>
+    </Measure>
+    <Name ID="628176" langid="1" Value="Headset type"/>
+   </Feature>
+  </ProductFeature>
+  <ProductFeature Localized="0" ID="802330762" Local_ID="0" Value="Black" CategoryFeature_ID="41175" CategoryFeatureGroup_ID="10774" No="100280" Optional="0" Presentation_Value="Black" Translated="1" Mandatory="1" Searchable="0">
+   <LocalValue Value="Black">
+    <Measure ID="29">
+     <Signs/>
+    </Measure>
+   </LocalValue>
+   <Feature ID="1766">
+    <Measure ID="29" Sign="">
+     <Signs/>
+    </Measure>
+    <Name ID="5487" langid="1" Value="Product colour"/>
+   </Feature>
+  </ProductFeature>
+  <ProductFeature Localized="0" ID="802330777" Local_ID="0" Value="Volume +,Volume -" CategoryFeature_ID="321152" CategoryFeatureGroup_ID="10774" No="100279" Optional="0" Presentation_Value="Volume +, Volume -" Translated="1" Mandatory="0" Searchable="0">
+   <LocalValue Value="Volume +, Volume -">
+    <Measure ID="29">
+     <Signs/>
+    </Measure>
+   </LocalValue>
+   <Feature ID="8160">
+    <Measure ID="29" Sign="">
+     <Signs/>
+    </Measure>
+    <Name ID="629373" langid="1" Value="Operating keys"/>
+   </Feature>
+  </ProductFeature>
+  <ProductFeature Localized="0" ID="802330768" Local_ID="0" Value="Buttons" CategoryFeature_ID="255483" CategoryFeatureGroup_ID="10774" No="100274" Optional="0" Presentation_Value="Buttons" Translated="1" Mandatory="0" Searchable="0">
+   <LocalValue Value="Buttons">
+    <Measure ID="29">
+     <Signs/>
+    </Measure>
+   </LocalValue>
+   <Feature ID="2651">
+    <Measure ID="29" Sign="">
+     <Signs/>
+    </Measure>
+    <Name ID="13446" langid="1" Value="Control type"/>
+   </Feature>
+  </ProductFeature>
+  <ProductFeature Localized="0" ID="943195985" Local_ID="0" Value="N" CategoryFeature_ID="52897" CategoryFeatureGroup_ID="10774" No="100273" Optional="0" Presentation_Value="No" Translated="1" Mandatory="0" Searchable="0">
+   <LocalValue Value="No">
+    <Measure ID="26">
+     <Signs/>
+    </Measure>
+   </LocalValue>
+   <Feature ID="2882">
+    <Measure ID="26" Sign="">
+     <Signs/>
+    </Measure>
+    <Name ID="27309" langid="1" Value="Foldable"/>
+   </Feature>
+  </ProductFeature>
+  <ProductFeature Localized="0" ID="802330755" Local_ID="0" Value="1.5" CategoryFeature_ID="42582" CategoryFeatureGroup_ID="10774" No="100270" Optional="0" Presentation_Value="1.5 m" Translated="0" Mandatory="0" Searchable="0">
+   <LocalValue Value="1.5">
+    <Measure ID="54">
+     <Signs>
+      <Sign ID="37" langid="1"><![CDATA[m]]></Sign>
+     </Signs>
+    </Measure>
+   </LocalValue>
+   <Feature ID="1266">
+    <Measure ID="54" Sign="">
+     <Signs>
+      <Sign ID="37" langid="1"><![CDATA[m]]></Sign>
+     </Signs>
+    </Measure>
+    <Name ID="4073" langid="1" Value="Cable length"/>
+   </Feature>
+  </ProductFeature>
+  <ProductFeature Localized="0" ID="802330756" Local_ID="0" Value="Black" CategoryFeature_ID="238759" CategoryFeatureGroup_ID="10774" No="100269" Optional="0" Presentation_Value="Black" Translated="1" Mandatory="0" Searchable="0">
+   <LocalValue Value="Black">
+    <Measure ID="29">
+     <Signs/>
+    </Measure>
+   </LocalValue>
+   <Feature ID="1272">
+    <Measure ID="29" Sign="">
+     <Signs/>
+    </Measure>
+    <Name ID="4085" langid="1" Value="Cable colour"/>
+   </Feature>
+  </ProductFeature>
+  <ProductFeature Localized="0" ID="802330758" Local_ID="0" Value="Y" CategoryFeature_ID="320989" CategoryFeatureGroup_ID="10774" No="100230" Optional="0" Presentation_Value="Yes" Translated="1" Mandatory="0" Searchable="0">
+   <LocalValue Value="Yes">
+    <Measure ID="29">
+     <Signs/>
+    </Measure>
+   </LocalValue>
+   <Feature ID="1501">
+    <Measure ID="29" Sign="">
+     <Signs/>
+    </Measure>
+    <Name ID="4699" langid="1" Value="LED indicators"/>
+   </Feature>
+  </ProductFeature>
+  <ProductFeature Localized="0" ID="943196152" Local_ID="0" Value="N" CategoryFeature_ID="321025" CategoryFeatureGroup_ID="10774" No="100100" Optional="0" Presentation_Value="No" Translated="1" Mandatory="0" Searchable="0">
+   <LocalValue Value="No">
+    <Measure ID="26">
+     <Signs/>
+    </Measure>
+   </LocalValue>
+   <Feature ID="9720">
+    <Measure ID="26" Sign="">
+     <Signs/>
+    </Measure>
+    <Name ID="810531" langid="1" Value="Virtual surround"/>
+   </Feature>
+  </ProductFeature>
+  <ProductFeature Localized="0" ID="802330752" Local_ID="0" Value="Y" CategoryFeature_ID="75397" CategoryFeatureGroup_ID="10774" No="99975" Optional="0" Presentation_Value="Yes" Translated="1" Mandatory="0" Searchable="0">
+   <LocalValue Value="Yes">
+    <Measure ID="26">
+     <Signs/>
+    </Measure>
+   </LocalValue>
+   <Feature ID="775">
+    <Measure ID="26" Sign="">
+     <Signs/>
+    </Measure>
+    <Name ID="3081" langid="1" Value="Plug and Play"/>
+   </Feature>
+  </ProductFeature>
+  <ProductFeature Localized="0" ID="875169473" Local_ID="0" Value="China" CategoryFeature_ID="114127" CategoryFeatureGroup_ID="10774" No="99949" Optional="0" Presentation_Value="China" Translated="1" Mandatory="0" Searchable="0">
+   <LocalValue Value="China">
+    <Measure ID="29">
+     <Signs/>
+    </Measure>
+   </LocalValue>
+   <Feature ID="3294">
+    <Measure ID="29" Sign="">
+     <Signs/>
+    </Measure>
+    <Name ID="31174" langid="1" Value="Country of origin"/>
+   </Feature>
+  </ProductFeature>
+  <ProductFeature Localized="0" ID="802330761" Local_ID="0" Value="Wired" CategoryFeature_ID="155712" CategoryFeatureGroup_ID="6264" No="10100298" Optional="0" Presentation_Value="Wired" Translated="1" Mandatory="1" Searchable="1">
+   <LocalValue Value="Wired">
+    <Measure ID="29">
+     <Signs/>
+    </Measure>
+   </LocalValue>
+   <Feature ID="1655">
+    <Measure ID="29" Sign="">
+     <Signs/>
+    </Measure>
+    <Name ID="5169" langid="1" Value="Connectivity technology"/>
+   </Feature>
+  </ProductFeature>
+  <ProductFeature Localized="0" ID="802330784" Local_ID="0" Value="USB Type-C / USB Type-A" CategoryFeature_ID="199417" CategoryFeatureGroup_ID="6264" No="100287" Optional="0" Presentation_Value="USB Type-C / USB Type-A" Translated="0" Mandatory="0" Searchable="0">
+   <LocalValue Value="USB Type-C / USB Type-A">
+    <Measure ID="29">
+     <Signs/>
+    </Measure>
+   </LocalValue>
+   <Feature ID="26352">
+    <Measure ID="29" Sign="">
+     <Signs/>
+    </Measure>
+    <Name ID="2241859" langid="1" Value="USB connector"/>
+   </Feature>
+  </ProductFeature>
+  <ProductFeature Localized="0" ID="943195613" Local_ID="0" Value="N" CategoryFeature_ID="199418" CategoryFeatureGroup_ID="6264" No="100286" Optional="0" Presentation_Value="No" Translated="1" Mandatory="0" Searchable="0">
+   <LocalValue Value="No">
+    <Measure ID="26">
+     <Signs/>
+    </Measure>
+   </LocalValue>
+   <Feature ID="2183">
+    <Measure ID="26" Sign="">
+     <Signs/>
+    </Measure>
+    <Name ID="11148" langid="1" Value="Bluetooth"/>
+   </Feature>
+  </ProductFeature>
+  <ProductFeature Localized="0" ID="802330767" Local_ID="0" Value="Supraaural" CategoryFeature_ID="42691" CategoryFeatureGroup_ID="5109" No="100050" Optional="0" Presentation_Value="Supraaural" Translated="1" Mandatory="1" Searchable="0">
+   <LocalValue Value="Supraaural">
+    <Measure ID="29">
+     <Signs/>
+    </Measure>
+   </LocalValue>
+   <Feature ID="2527">
+    <Measure ID="29" Sign="">
+     <Signs/>
+    </Measure>
+    <Name ID="12930" langid="1" Value="Ear coupling"/>
+   </Feature>
+  </ProductFeature>
+  <ProductFeature Localized="0" ID="802330780" Local_ID="0" Value="30" CategoryFeature_ID="117604" CategoryFeatureGroup_ID="5109" No="100400" Optional="0" Presentation_Value="30 mW" Translated="0" Mandatory="0" Searchable="0">
+   <LocalValue Value="30">
+    <Measure ID="135">
+     <Signs>
+      <Sign ID="116" langid="1"><![CDATA[mW]]></Sign>
+     </Signs>
+    </Measure>
+   </LocalValue>
+   <Feature ID="9716">
+    <Measure ID="135" Sign="">
+     <Signs>
+      <Sign ID="116" langid="1"><![CDATA[mW]]></Sign>
+     </Signs>
+    </Measure>
+    <Name ID="810360" langid="1" Value="Maximum input power"/>
+   </Feature>
+  </ProductFeature>
+  <ProductFeature Localized="0" ID="802330773" Local_ID="0" Value="Open" CategoryFeature_ID="43220" CategoryFeatureGroup_ID="5109" No="100048" Optional="0" Presentation_Value="Open" Translated="1" Mandatory="0" Searchable="0">
+   <LocalValue Value="Open">
+    <Measure ID="29">
+     <Signs/>
+    </Measure>
+   </LocalValue>
+   <Feature ID="5118">
+    <Measure ID="29" Sign="">
+     <Signs/>
+    </Measure>
+    <Name ID="71251" langid="1" Value="Acoustic system"/>
+   </Feature>
+  </ProductFeature>
+  <ProductFeature Localized="0" ID="802330763" Local_ID="0" Value="20 - 20000" CategoryFeature_ID="41166" CategoryFeatureGroup_ID="5109" No="100047" Optional="0" Presentation_Value="20 - 20000 Hz" Translated="0" Mandatory="0" Searchable="0">
+   <LocalValue Value="20 - 20000">
+    <Measure ID="36">
+     <Signs>
+      <Sign ID="20" langid="1"><![CDATA[Hz]]></Sign>
+     </Signs>
+    </Measure>
+   </LocalValue>
+   <Feature ID="1887">
+    <Measure ID="36" Sign="">
+     <Signs>
+      <Sign ID="20" langid="1"><![CDATA[Hz]]></Sign>
+     </Signs>
+    </Measure>
+    <Name ID="5847" langid="1" Value="Headphone frequency"/>
+   </Feature>
+  </ProductFeature>
+  <ProductFeature Localized="0" ID="802330764" Local_ID="0" Value="115" CategoryFeature_ID="41163" CategoryFeatureGroup_ID="5109" No="100043" Optional="0" Presentation_Value="115 Ω" Translated="0" Mandatory="0" Searchable="0">
+   <LocalValue Value="115">
+    <Measure ID="87">
+     <Signs>
+      <Sign ID="69" langid="1"><![CDATA[Ω]]></Sign>
+     </Signs>
+    </Measure>
+   </LocalValue>
+   <Feature ID="1889">
+    <Measure ID="87" Sign="">
+     <Signs>
+      <Sign ID="69" langid="1"><![CDATA[Ω]]></Sign>
+     </Signs>
+    </Measure>
+    <Name ID="5851" langid="1" Value="Impedance"/>
+   </Feature>
+  </ProductFeature>
+  <ProductFeature Localized="0" ID="802330766" Local_ID="0" Value="28" CategoryFeature_ID="41164" CategoryFeatureGroup_ID="5109" No="100030" Optional="0" Presentation_Value="2.8 cm" Translated="0" Mandatory="0" Searchable="0">
+   <LocalValue Value="2.8">
+    <Measure ID="34">
+     <Signs>
+      <Sign ID="18" langid="1"><![CDATA[cm]]></Sign>
+     </Signs>
+    </Measure>
+   </LocalValue>
+   <Feature ID="2379">
+    <Measure ID="24" Sign="">
+     <Signs>
+      <Sign ID="3" langid="1"><![CDATA[mm]]></Sign>
+     </Signs>
+    </Measure>
+    <Name ID="12234" langid="1" Value="Driver unit"/>
+   </Feature>
+  </ProductFeature>
+  <ProductFeature Localized="0" ID="802330782" Local_ID="0" Value="Boom microphone" CategoryFeature_ID="320987" CategoryFeatureGroup_ID="5110" No="10100297" Optional="0" Presentation_Value="Boom" Translated="1" Mandatory="1" Searchable="1">
+   <LocalValue Value="Boom">
+    <Measure ID="29">
+     <Signs/>
+    </Measure>
+   </LocalValue>
+   <Feature ID="15803">
+    <Measure ID="29" Sign="">
+     <Signs/>
+    </Measure>
+    <Name ID="1181148" langid="1" Value="Microphone type"/>
+   </Feature>
+  </ProductFeature>
+  <ProductFeature Localized="0" ID="802330765" Local_ID="0" Value="-38" CategoryFeature_ID="41168" CategoryFeatureGroup_ID="5110" No="100015" Optional="0" Presentation_Value="-38 dB" Translated="0" Mandatory="0" Searchable="0">
+   <LocalValue Value="-38">
+    <Measure ID="76">
+     <Signs>
+      <Sign ID="59" langid="1"><![CDATA[dB]]></Sign>
+     </Signs>
+    </Measure>
+   </LocalValue>
+   <Feature ID="1891">
+    <Measure ID="76" Sign="">
+     <Signs>
+      <Sign ID="59" langid="1"><![CDATA[dB]]></Sign>
+     </Signs>
+    </Measure>
+    <Name ID="5855" langid="1" Value="Microphone sensitivity"/>
+   </Feature>
+  </ProductFeature>
+  <ProductFeature Localized="0" ID="802330783" Local_ID="0" Value="Y" CategoryFeature_ID="161734" CategoryFeatureGroup_ID="5110" No="100000" Optional="0" Presentation_Value="Yes" Translated="1" Mandatory="0" Searchable="0">
+   <LocalValue Value="Yes">
+    <Measure ID="26">
+     <Signs/>
+    </Measure>
+   </LocalValue>
+   <Feature ID="25721">
+    <Measure ID="26" Sign="">
+     <Signs/>
+    </Measure>
+    <Name ID="2170844" langid="1" Value="Folding microphone"/>
+   </Feature>
+  </ProductFeature>
+  <ProductFeature Localized="0" ID="802330774" Local_ID="0" Value="2" CategoryFeature_ID="321124" CategoryFeatureGroup_ID="5110" No="100000" Optional="0" Presentation_Value="2" Translated="0" Mandatory="0" Searchable="0">
+   <LocalValue Value="2">
+    <Measure ID="29">
+     <Signs/>
+    </Measure>
+   </LocalValue>
+   <Feature ID="7252">
+    <Measure ID="29" Sign="">
+     <Signs/>
+    </Measure>
+    <Name ID="352345" langid="1" Value="Number of microphones"/>
+   </Feature>
+  </ProductFeature>
+  <ProductFeature Localized="0" ID="802330785" Local_ID="0" Value="Y" CategoryFeature_ID="684707" CategoryFeatureGroup_ID="5110" No="100000" Optional="0" Presentation_Value="Yes" Translated="1" Mandatory="0" Searchable="0">
+   <LocalValue Value="Yes">
+    <Measure ID="26">
+     <Signs/>
+    </Measure>
+   </LocalValue>
+   <Feature ID="42739">
+    <Measure ID="26" Sign="">
+     <Signs/>
+    </Measure>
+    <Name ID="7112578" langid="1" Value="MEMS (Micro-Electro-Mechanical System) microphone"/>
+   </Feature>
+  </ProductFeature>
+  <ProductFeature Localized="0" ID="802330769" Local_ID="0" Value="Y" CategoryFeature_ID="43268" CategoryFeatureGroup_ID="5110" No="99998" Optional="0" Presentation_Value="Yes" Translated="1" Mandatory="0" Searchable="0">
+   <LocalValue Value="Yes">
+    <Measure ID="26">
+     <Signs/>
+    </Measure>
+   </LocalValue>
+   <Feature ID="2673">
+    <Measure ID="26" Sign="">
+     <Signs/>
+    </Measure>
+    <Name ID="13539" langid="1" Value="Microphone mute"/>
+   </Feature>
+  </ProductFeature>
+  <ProductFeature Localized="0" ID="943195902" Local_ID="0" Value="N" CategoryFeature_ID="320391" CategoryFeatureGroup_ID="6263" No="99976" Optional="0" Presentation_Value="No" Translated="1" Mandatory="0" Searchable="0">
+   <LocalValue Value="No">
+    <Measure ID="26">
+     <Signs/>
+    </Measure>
+   </LocalValue>
+   <Feature ID="12148">
+    <Measure ID="26" Sign="">
+     <Signs/>
+    </Measure>
+    <Name ID="1087259" langid="1" Value="Wireless charging"/>
+   </Feature>
+  </ProductFeature>
+  <ProductFeature Localized="0" ID="802330753" Local_ID="0" Value="-10 - 55" CategoryFeature_ID="48590" CategoryFeatureGroup_ID="33260" No="100010" Optional="0" Presentation_Value="-10 - 55 °C" Translated="0" Mandatory="0" Searchable="0">
+   <LocalValue Value="-10 - 55">
+    <Measure ID="65">
+     <Signs>
+      <Sign ID="48" langid="1"><![CDATA[°C]]></Sign>
+     </Signs>
+    </Measure>
+   </LocalValue>
+   <Feature ID="1112">
+    <Measure ID="65" Sign="">
+     <Signs>
+      <Sign ID="48" langid="1"><![CDATA[°C]]></Sign>
+     </Signs>
+    </Measure>
+    <Name ID="3765" langid="1" Value="Operating temperature (T-T)"/>
+   </Feature>
+  </ProductFeature>
+  <ProductFeature Localized="0" ID="802330751" Local_ID="0" Value="-5 - 55" CategoryFeature_ID="48591" CategoryFeatureGroup_ID="33260" No="100005" Optional="0" Presentation_Value="-5 - 55 °C" Translated="0" Mandatory="0" Searchable="0">
+   <LocalValue Value="-5 - 55">
+    <Measure ID="65">
+     <Signs>
+      <Sign ID="48" langid="1"><![CDATA[°C]]></Sign>
+     </Signs>
+    </Measure>
+   </LocalValue>
+   <Feature ID="757">
+    <Measure ID="65" Sign="">
+     <Signs>
+      <Sign ID="48" langid="1"><![CDATA[°C]]></Sign>
+     </Signs>
+    </Measure>
+    <Name ID="3045" langid="1" Value="Storage temperature (T-T)"/>
+   </Feature>
+  </ProductFeature>
+  <ProductFeature Localized="0" ID="802330759" Local_ID="0" Value="136.2" CategoryFeature_ID="43302" CategoryFeatureGroup_ID="5112" No="100050" Optional="0" Presentation_Value="136.2 mm" Translated="0" Mandatory="0" Searchable="0">
+   <LocalValue Value="136.2">
+    <Measure ID="24">
+     <Signs>
+      <Sign ID="3" langid="1"><![CDATA[mm]]></Sign>
+     </Signs>
+    </Measure>
+   </LocalValue>
+   <Feature ID="1649">
+    <Measure ID="24" Sign="">
+     <Signs>
+      <Sign ID="3" langid="1"><![CDATA[mm]]></Sign>
+     </Signs>
+    </Measure>
+    <Name ID="5143" langid="1" Value="Width"/>
+   </Feature>
+  </ProductFeature>
+  <ProductFeature Localized="0" ID="802330760" Local_ID="0" Value="54.3" CategoryFeature_ID="43235" CategoryFeatureGroup_ID="5112" No="100049" Optional="0" Presentation_Value="54.3 mm" Translated="0" Mandatory="0" Searchable="0">
+   <LocalValue Value="54.3">
+    <Measure ID="24">
+     <Signs>
+      <Sign ID="3" langid="1"><![CDATA[mm]]></Sign>
+     </Signs>
+    </Measure>
+   </LocalValue>
+   <Feature ID="1650">
+    <Measure ID="24" Sign="">
+     <Signs>
+      <Sign ID="3" langid="1"><![CDATA[mm]]></Sign>
+     </Signs>
+    </Measure>
+    <Name ID="5145" langid="1" Value="Depth"/>
+   </Feature>
+  </ProductFeature>
+  <ProductFeature Localized="0" ID="802330757" Local_ID="0" Value="178.7" CategoryFeature_ID="43257" CategoryFeatureGroup_ID="5112" No="100048" Optional="0" Presentation_Value="178.7 mm" Translated="0" Mandatory="0" Searchable="0">
+   <LocalValue Value="178.7">
+    <Measure ID="24">
+     <Signs>
+      <Sign ID="3" langid="1"><![CDATA[mm]]></Sign>
+     </Signs>
+    </Measure>
+   </LocalValue>
+   <Feature ID="1464">
+    <Measure ID="24" Sign="">
+     <Signs>
+      <Sign ID="3" langid="1"><![CDATA[mm]]></Sign>
+     </Signs>
+    </Measure>
+    <Name ID="4625" langid="1" Value="Height"/>
+   </Feature>
+  </ProductFeature>
+  <ProductFeature Localized="0" ID="802330750" Local_ID="0" Value="125" CategoryFeature_ID="41172" CategoryFeatureGroup_ID="5112" No="100047" Optional="0" Presentation_Value="125 g" Translated="0" Mandatory="0" Searchable="0">
+   <LocalValue Value="125">
+    <Measure ID="38">
+     <Signs>
+      <Sign ID="22" langid="1"><![CDATA[g]]></Sign>
+     </Signs>
+    </Measure>
+   </LocalValue>
+   <Feature ID="94">
+    <Measure ID="38" Sign="">
+     <Signs>
+      <Sign ID="22" langid="1"><![CDATA[g]]></Sign>
+     </Signs>
+    </Measure>
+    <Name ID="1525" langid="1" Value="Weight"/>
+   </Feature>
+  </ProductFeature>
+  <ProductFeature Localized="0" ID="802330772" Local_ID="0" Value="40" CategoryFeature_ID="43281" CategoryFeatureGroup_ID="5225" No="99989" Optional="0" Presentation_Value="40 mm" Translated="0" Mandatory="0" Searchable="0">
+   <LocalValue Value="40">
+    <Measure ID="24">
+     <Signs>
+      <Sign ID="3" langid="1"><![CDATA[mm]]></Sign>
+     </Signs>
+    </Measure>
+   </LocalValue>
+   <Feature ID="3808">
+    <Measure ID="24" Sign="">
+     <Signs>
+      <Sign ID="3" langid="1"><![CDATA[mm]]></Sign>
+     </Signs>
+    </Measure>
+    <Name ID="44095" langid="1" Value="Package width"/>
+   </Feature>
+  </ProductFeature>
+  <ProductFeature Localized="0" ID="802330770" Local_ID="0" Value="170" CategoryFeature_ID="43275" CategoryFeatureGroup_ID="5225" No="99988" Optional="0" Presentation_Value="170 mm" Translated="0" Mandatory="0" Searchable="0">
+   <LocalValue Value="170">
+    <Measure ID="24">
+     <Signs>
+      <Sign ID="3" langid="1"><![CDATA[mm]]></Sign>
+     </Signs>
+    </Measure>
+   </LocalValue>
+   <Feature ID="3806">
+    <Measure ID="24" Sign="">
+     <Signs>
+      <Sign ID="3" langid="1"><![CDATA[mm]]></Sign>
+     </Signs>
+    </Measure>
+    <Name ID="44061" langid="1" Value="Package depth"/>
+   </Feature>
+  </ProductFeature>
+  <ProductFeature Localized="0" ID="802330771" Local_ID="0" Value="210.3" CategoryFeature_ID="43276" CategoryFeatureGroup_ID="5225" No="99987" Optional="0" Presentation_Value="210.3 mm" Translated="0" Mandatory="0" Searchable="0">
+   <LocalValue Value="210.3">
+    <Measure ID="24">
+     <Signs>
+      <Sign ID="3" langid="1"><![CDATA[mm]]></Sign>
+     </Signs>
+    </Measure>
+   </LocalValue>
+   <Feature ID="3807">
+    <Measure ID="24" Sign="">
+     <Signs>
+      <Sign ID="3" langid="1"><![CDATA[mm]]></Sign>
+     </Signs>
+    </Measure>
+    <Name ID="44078" langid="1" Value="Package height"/>
+   </Feature>
+  </ProductFeature>
+  <ProductFeature Localized="0" ID="802330754" Local_ID="0" Value="N" CategoryFeature_ID="255783" CategoryFeatureGroup_ID="12861" No="100015" Optional="0" Presentation_Value="No" Translated="1" Mandatory="1" Searchable="0">
+   <LocalValue Value="No">
+    <Measure ID="26">
+     <Signs/>
+    </Measure>
+   </LocalValue>
+   <Feature ID="1230">
+    <Measure ID="26" Sign="">
+     <Signs/>
+    </Measure>
+    <Name ID="4001" langid="1" Value="AC adapter included"/>
+   </Feature>
+  </ProductFeature>
+  <ProductFeature Localized="0" ID="802330778" Local_ID="0" Value="Y" CategoryFeature_ID="321049" CategoryFeatureGroup_ID="12861" No="99999" Optional="0" Presentation_Value="Yes" Translated="1" Mandatory="0" Searchable="0">
+   <LocalValue Value="Yes">
+    <Measure ID="26">
+     <Signs/>
+    </Measure>
+   </LocalValue>
+   <Feature ID="8161">
+    <Measure ID="26" Sign="">
+     <Signs/>
+    </Measure>
+    <Name ID="629414" langid="1" Value="Ear pads"/>
+   </Feature>
+  </ProductFeature>
+  <ProductFeature Localized="0" ID="802330786" Local_ID="0" Value="Leather" CategoryFeature_ID="804136" CategoryFeatureGroup_ID="12861" No="99999" Optional="0" Presentation_Value="Leather" Translated="1" Mandatory="0" Searchable="0">
+   <LocalValue Value="Leather">
+    <Measure ID="29">
+     <Signs/>
+    </Measure>
+   </LocalValue>
+   <Feature ID="44245">
+    <Measure ID="29" Sign="">
+     <Signs/>
+    </Measure>
+    <Name ID="7964716" langid="1" Value="Ear pad material"/>
+   </Feature>
+  </ProductFeature>
+  <ProductFeature Localized="0" ID="943208965" Local_ID="0" Value="N" CategoryFeature_ID="974955" CategoryFeatureGroup_ID="12862" No="100000" Optional="0" Presentation_Value="No" Translated="1" Mandatory="1" Searchable="0">
+   <LocalValue Value="No">
+    <Measure ID="26">
+     <Signs/>
+    </Measure>
+   </LocalValue>
+   <Feature ID="48505">
+    <Measure ID="26" Sign="">
+     <Signs/>
+    </Measure>
+    <Name ID="9200571" langid="1" Value="USB Type-C charging port"/>
+   </Feature>
+  </ProductFeature>
+  <ProductGallery>
+   <ProductPicture IsMain="Y" LowPic="https://images.icecat.biz/img/gallery_lows/9d54daafacc18a4d72963416832bcea24c456a95.jpg" LowPicHeight="200" LowPicWidth="162" LowSize="8190" No="1" Original="https://images.icecat.biz/img/gallery_raw/be4d66b73c9cc594a781e9106b741c068662e88f.png" OriginalSize="204903" Pic="https://images.icecat.biz/img/gallery/c26dcd172593780b274f6d14753be95e9e8366a6.jpg" Pic500x500="https://images.icecat.biz/img/gallery_mediums/ab44a97cff1a40abf45f7821814e330f3c7e79b4.jpg" Pic500x500Height="500" Pic500x500Size="31308" Pic500x500Width="406" PicHeight="832" PicWidth="675" ProductPicture_ID="109841982" Size="67999" ThumbPic="https://images.icecat.biz/img/gallery_thumbs/734c2f130a1705005a03e7f19e001d50e4c6a874.jpg" ThumbSize="2353" Type="ProductImage" UpdatedDate="2025-07-02 14:43:30"/>
+   <ProductPicture LowPic="" LowPicHeight="0" LowPicWidth="0" LowSize="0" No="999" Original="" OriginalSize="0" Pic="https://images.icecat.biz/img/feature_logo/1242-3899.png" Pic500x500="" Pic500x500Height="0" Pic500x500Size="0" Pic500x500Width="0" PicHeight="0" PicWidth="0" ProductPicture_ID="4307268537" Size="0" ThumbPic="https://images.icecat.biz/img/feature_logo_thumbs/1242-3899.png" ThumbSize="0" Type="FeatureLogo" UpdatedDate="" langid="1"/>
+  </ProductGallery>
+  <ProductMultimediaObject>
+   <MultimediaObject ContentType="application/pdf" Date="2025-07-02 14:43:31" Description="leaflet" KeepAsURL="0" MultimediaObject_ID="65410307" Type="leaflet" UUID="8F3DF09B-C1BC-447F-84EB-E1C0F0234314" langid="1" Height="0" PreviewHeight="0" PreviewSize="0" PreviewUrl="" PreviewWidth="0" Size="140067" URL="https://objects.icecat.biz/objects/mmo_124880731_1751460210_985_541355.pdf" Width="0"/>
+  </ProductMultimediaObject>
+  <ProductRelated/>
+  <SummaryDescription>
+   <ShortSummaryDescription langid="1">Jabra Evolve2 30 SE USB C/A MS Mono, Wired, 20 - 20000 Hz, Office/Call center, 125 g, Headset, Black</ShortSummaryDescription>
+   <LongSummaryDescription langid="1">Jabra Evolve2 30 SE USB C/A MS Mono. Product type: Headset. Connectivity technology: Wired. Recommended usage: Office/Call center. Headphone frequency: 20 - 20000 Hz. Cable length: 1.5 m. Weight: 125 g. Product colour: Black</LongSummaryDescription>
+  </SummaryDescription>
+  <Supplier ID="196" Name="Jabra"/>
+  <CatalogObjectCloud>
+   <ProductPage QRCodeURL="https://qr.icecat.biz/coc/6f957b15-19f5-4ac3-8d30-7d64fdf9c4d6" URL="https://coc.icecat.biz/6f957b15-19f5-4ac3-8d30-7d64fdf9c4d6"/>
+  </CatalogObjectCloud>
+ </Product>
+</ICECAT-interface>
